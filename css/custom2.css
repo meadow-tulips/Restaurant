@@ -1,0 +1,63 @@
+body{
+
+    background-color:#fff;
+    text-shadow: none;
+}
+
+.site-wrapper
+{
+background-image: none;
+background-color: #fff;
+
+}
+
+/* Specific CSS */
+
+.content p
+{
+font-size: .80em;
+color:#3f3f3f;
+margin-left: auto;
+margin-right: auto;
+}
+
+.image2
+{
+margin-top:10%;    
+width:70%;
+}
+
+.nav-masthead .nav-link 
+{
+    color:#3f3f3f;
+    border-bottom: none;
+}
+
+.content, .content p, .masthead-brand
+{
+    color:#3f3f3f;
+}
+
+
+
+.nav-link:hover, .nav-link:focus
+{
+    color:white;
+    font-weight:600;
+}
+
+.mastfoot
+{
+    position: relative;
+    font-size: .5em;
+}
+
+div ul li a
+{
+    color:black;
+}
+
+.active
+{
+    font-weight:700;
+}

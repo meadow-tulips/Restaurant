@@ -1,0 +1,49 @@
+.jumbotron-fluid
+{
+    background-image: url(../Images/image_6.png);
+    min-height:400px;
+    background-repeat: no-repeat;
+    background-position: center
+
+}
+
+.container-fluid
+{
+    width:60%;
+    
+}
+
+.container-fluid h5, .container-fluid .firstline
+{
+    text-align: center;
+    
+}
+
+.container-fluid h5
+{
+    font-weight:900;
+}
+
+.active
+{
+font-weight: 700;
+}
+
+ul li a
+{
+    color:black;
+}
+
+ul li a:hover, ul li a:focus
+{
+    color:teal;
+    font-weight:600;
+}
+
+.mastfoot {
+    text-align: center;
+    bottom: 0;
+    color: teal;
+    font-size: 0.5em;
+    margin-top:6em;
+  }
